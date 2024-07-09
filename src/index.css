@@ -1,0 +1,9 @@
+body {
+  background: url('./assets/images/bg.svg');
+  background-size: cover;
+  /* Rasmning o'lchamini butun fonni qoplash uchun moslaydi */
+  background-repeat: no-repeat;
+  /* Rasmning qayta takrorlanishini oldini oladi */
+  background-position: center;
+  /* Rasmni markazga joylashtiradi */
+}
