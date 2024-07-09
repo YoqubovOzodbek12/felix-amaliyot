@@ -52,7 +52,7 @@ const Register = () => {
       <div className='auth-wapper'>
         <div className='auth-inner'>
           <form onSubmit={handleRegister}>
-            <h3 className='text-center font-bold mt-2 mb-4'>Sing Up</h3>
+            <h1 className='auth-title text-center font-bold mt-2 mb-4'>Sing Up</h1>
 
             <div className="mb-4">
               <label className="block text-gray-700 text-sm font-bold mb-2">
